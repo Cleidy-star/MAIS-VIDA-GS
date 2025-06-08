@@ -156,3 +156,30 @@ header {
 .contato-form button:hover {
   background: #7DD87D;
 }
+
+@media (min-width: 600px) {
+  .contato {
+    padding: 0 5vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .contato {
+    max-width: 700px;
+  }
+}
+
+@media (min-width: 992px) {
+  .contato {
+    max-width: 800px;
+    padding: 0 24px;
+  }
+}
+
+@media (min-width: 1300px) {
+  .contato {
+    max-width: 1000px;
+    padding: 0 32px;
+    margin: 56px auto;
+  }
+}
