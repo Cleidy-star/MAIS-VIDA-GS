@@ -9,11 +9,9 @@
 * [Visão Geral](#visão-geral)
 * [Tecnologias](#tecnologias)
 * [Estrutura de Arquivos](#estrutura-de-arquivos)
-* [Instalação](#instalação)
+* [Link Github](#link-github)
 * [Uso](#uso)
 * [Responsividade](#responsividade)
-* [Contribuição](#contribuição)
-* [Licença](#licença)
 
 ---
 
@@ -68,7 +66,7 @@ Todas as páginas compartilham o mesmo layout de cabeçalho e rodapé.
 
 ---
 
-## Instalação
+## Link Github
 
 1. Clone o repositório:
 
