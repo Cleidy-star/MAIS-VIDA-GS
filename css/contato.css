@@ -11,3 +11,59 @@ html, body {
   list-style: none;
   text-decoration: none;
 }
+
+header {
+  background: #4FC3F7;
+  width: 100vw;
+}
+
+.top-bar {
+  position: relative;
+  max-width: 1400px;
+  height: 56px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #000;
+  white-space: nowrap;
+}
+
+.menu {
+  list-style: none;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 24px;
+  
+}
+
+.menu li a {
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  transition: opacity 0.2s;
+}
+
+.menu li a:hover {
+  opacity: 0.8;
+}
+
+.icons {
+  display: flex;
+  gap: 29px;
+}
+
+.icon {
+  width: 16px;
+  height: 20px;
+  cursor: pointer;
+}
