@@ -68,7 +68,7 @@ Todas as páginas compartilham o mesmo layout de cabeçalho e rodapé.
 
 ## Link Github
 
-1. Clone o repositório:
+1. Repositório:
 
 git clone https://github.com/Cleidy-star/MAIS-VIDA-GS.git
 
