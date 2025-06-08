@@ -35,7 +35,7 @@ Todas as páginas compartilham o mesmo layout de cabeçalho e rodapé.
 
 * **HTML5**
 * **CSS3** (com media queries para breakpoints)
-* **JavaScript **
+* **JavaScript**
 * **LocalStorage** para simulação de cadastro e login
 
 ---
